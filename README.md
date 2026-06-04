@@ -26,3 +26,9 @@
 
 > ผลที่ตามมาคือ การตอบสนองต่อยาของแต่ละคนจะไม่เหมือนกัน เช่น บางคนยาถูกเปลี่ยนเร็วทำให้ยาออกฤทธิ์สั้น , บางคนยาถูกเปลี่ยนช้าทำให้ยาอยู่ในร่างกายนาน , บางคนอาจไวต่อยามากขึ้นทำให้เกิดผลข้างเคียงง่ายขึ้น
 
+
+
+> Reference
+> https://www.nstda.or.th/home/knowledge_post/dna/
+> https://medlineplus.gov/genetics/understanding/howgeneswork/protein/
+> https://www-genome-gov.translate.goog/about-genomics/educational-resources/fact-sheets/human-genomic-variation?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl=th&_x_tr_pto=tc
